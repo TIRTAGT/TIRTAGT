@@ -1,7 +1,3 @@
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tirtagt&show_icons=true&include_all_commits=true&theme=radical" alt="TIRTAGT's github statistics" />
-</a> -->
-
 <span style="display: inline-flex;">
 	Hello world&nbsp;
 	<img src="icons/globe.svg" width="20px"/>
@@ -64,7 +60,7 @@
 * Android App Development <img src="icons/smartphone.svg" width="20px"/>
   	* Java
   	* Kotlin
-* Backend Web Development
+* Backend Web Development <img src="icons/server.svg" width="20px"/>
   * <img src="icons/php.svg" width="20px"/> PHP 
   * <img src="icons/nodedotjs.svg" width="20px"/> NodeJS
 * Frontend Web Development
@@ -79,7 +75,7 @@
   * MySQL
   * File and Folder Hierarchy <img src="icons/folder.svg" width="20px"/>
 
-> The list above lists what <u>I mostly use</u>, I'm still constantly learning more on what I already use or experimenting on new things.
+> The list above is what <u>I mostly use</u>, I'm still constantly learning more on what I already use or experimenting on new things.
 
 <hr>
 
@@ -110,7 +106,7 @@
 
 <hr>
 
-### Icons Licenses
+### Third Party Icon License
 
 Icons that are used on this README.md are not created by me, and it is not owned by me.
 
