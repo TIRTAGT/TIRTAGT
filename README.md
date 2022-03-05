@@ -36,11 +36,20 @@
 <br>
 <br>
 
-<div style="display: inline-flex;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tirtagt&show_icons=true&include_all_commits=true&theme=radical" alt="TIRTAGT's github statistics" />
+	<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tirtagt&show_icons=true&include_all_commits=true&theme=radical" alt="TIRTAGT's github statistics" />
 </a>
-</div>
+
+<!-- These br's are to make sure the github-readme-stats did not collide with the other elements, since CSS wasn't possible to be used here -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <hr>
 
