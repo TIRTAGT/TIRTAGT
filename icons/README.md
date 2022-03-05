@@ -1,9 +1,12 @@
 # Icons Licenses
 
-Icons that are used on this README.md are not created by me, and it is not owned by me.
-Those are either open source icons or a propriety one but is subject to acceptable use case.
+Icons that are used on this profile repository are not created by me, and it is not owned by me.
+
+Those are either open source icons or a propriety one that is considered to acceptable use case.
 
 Below are the list of the images, their licenses, and their source.
+
+If you are owner of the image and does not want your image to be used here, please open a issue or contact me.
 
 <hr>
 
