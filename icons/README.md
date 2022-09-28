@@ -2,11 +2,11 @@
 
 Icons that are used on this profile repository are not created by me, and it is not owned by me.
 
-Those are either open source icons or a propriety one that is considered to acceptable use case.
+The icons used here are either open-source icons or a propriety one that is considered to acceptable use case.
 
-Below are the list of the images, their licenses, and their source.
+Below is the list of the images, its licenses, and its source.
 
-If you are owner of the image and does not want your image to be used here, please open a issue or contact me.
+If you are owner of the image and did not want your image to be used here, please open an issue or contact me.
 
 <hr>
 
