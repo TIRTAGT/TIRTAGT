@@ -8,21 +8,20 @@
 
 <span>
 	My name is <b>Matthew Tirtawidjaja</b>,
-	I was born at 5 December 2003, I'm currently a
-	<i>Computer and Network Engineering</i>
-	<img src="icons/wifi.svg" width="20px"/>
-	student on a Vocational High School.
+	I was born on 5 December 2003, I'm currently a
+	<i>Informatics Engineering</i>
+	student on Institut Teknologi Indonesia to get my Bachelor's Degree.
 </span>
 
 <br>
 <br>
 
 <span>
-	Even if I'm a <i>Computer and Network Engineering</i> student,
-	I'm actually are more interested on <b><i>Software Development</i></b>
+	I'm a <i>Computer and Network Engineering</i> student while on Vocational High School,
+	however I have more interest in <b><i>Software Development</i></b>
 	<img src="icons/code.svg" width="20px"/>.
 	&nbsp;
-	Specifically, I'm currently learning the 
+	Specifically, I'm interested in 
 	<b><i>Backend of Web Development</i></b>
 	<img src="icons/server.svg" width="20px"/>
 	field but I'm always open to learn more about other fields.
@@ -51,7 +50,7 @@
 
 ### <img src="icons/user.svg" width="20px"/> My current hobby
 * Building my own virtual company, **TIRTAGT Develpoer** in my spare time.
-* Playing games, mostly online based strategy and/or sandbox game.
+* Playing games, mostly strategy/rhythm/roleplay/sandbox game.
 
 
 <hr>
@@ -75,7 +74,7 @@
   * MySQL
   * File and Folder Hierarchy <img src="icons/folder.svg" width="20px"/>
 
-> The list above is what <u>I mostly use</u>, I'm still constantly learning more on what I already use or experimenting on new things.
+> The list above is what <u>I mostly use</u>, I'm still learning more on new and existing things.
 
 <hr>
 
@@ -111,18 +110,3 @@
 Icons that are used on this README.md are not created by me, and it is not owned by me.
 
 More information about the sources are available on [here](./icons/README.md)
-
-<!--
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
